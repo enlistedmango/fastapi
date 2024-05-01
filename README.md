@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Super Fast Search Thingy
 
-## Getting Started
+Globally distributed high-performance API using:
 
-First, run the development server:
+-   Cloudflare Workers
+-   HonoJS
+-   Redis
+-   NextJS
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![](https://media.cleanshot.cloud/media/83423/SSb48EhLr7zbmlXBvw7ed8w2siLxAmukTZZtbFcX.jpeg?Expires=1714571365&Signature=fqnQzsc8RFTZZtfSUpmPfqWZ7xVmwZjPiqKL7zmVBUU6zOvDDQDzMaaGi2kL08P2H~kP0OcZs5nYKsZGXdgj3FX8FZRRTStUuISWd72cdxdzmhD6nSaaisM4RDdiYjn34783uOTo~mOYvi8NqjA5qU5igEYxi8qlviSrquTIaLEtqWJs7cgsOcJp4eWwdce8jxpczsCj9gtHrpJRGQnlB12n3CmMak7kD5RHNIQKTNXZCIQhEuxNN66NgsAdUPKXtVbYbhGkkzjx23xZLqoGucE-4E~D0uV5OuNHCx7yh-nx1rXtJJnyGx6I0siSFFeStLomMx79R~caGbg10I32lw__&Key-Pair-Id=K269JMAT9ZF4GZ)
